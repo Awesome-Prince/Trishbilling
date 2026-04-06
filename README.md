@@ -1,6 +1,6 @@
-# ☕ Café Billing System
+# ☕ Trish Billing System
 
-A complete web-based café billing system built with React, TypeScript, and Tailwind CSS. Perfect for café staff to take orders, generate bills, and track sales history.
+A complete web-based Trish Billing system built with React, TypeScript, and Tailwind CSS. Perfect for café staff to take orders, generate bills, and track sales history.
 
 ## ✨ Features
 

@@ -112,7 +112,7 @@ Thank you for your order! ☕
         <Card className="p-8" ref={invoiceRef}>
           {/* Header */}
           <div className="text-center mb-8">
-            <h1 className="text-3xl font-bold mb-2">☕ Café Billing</h1>
+            <h1 className="text-3xl font-bold mb-2">☕ Trish Billing</h1>
             <p className="text-muted-foreground">Tax Invoice</p>
           </div>
 

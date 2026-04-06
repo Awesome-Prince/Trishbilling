@@ -1,4 +1,4 @@
-// Type definitions for the café billing system
+// Type definitions for the Trish Billing system
 
 export interface MenuItem {
   id: string;
