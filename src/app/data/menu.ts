@@ -411,13 +411,13 @@ export const MENU_ITEMS: MenuItem[] = [
     category: "Rolls&Shawarma",
   },
   {
-    id: "65"
+    id: "65",
     name: "Paneer wraps",
     price: 100,
     category: "Rolls&Shawarma",
   },
 {
-    id: "66"
+    id: "66",
     name: "Egg Cheese wraps",
     price: 100,
     category: "Rolls&Shawarma",
@@ -425,30 +425,30 @@ export const MENU_ITEMS: MenuItem[] = [
 
   // Cheeseloadedbox
   {
-    id: "67"
+    id: "67",
     name: "Cheeseloaded fries",
     price: 150,
     category: "Cheeseloadedbox",
   },
   {
-    id: "68"
+    id: "68",
     name: "Chessey chicken fries",
     price: 200,
     category: "Cheeseloadedbox",
   },
   {
-    id: "69"
+    id: "69",
     name: "Chicken lass Mexican chicken",
     price: 200,
     category: "Cheeseloadedbox",
   },{
-    id: "70"
+    id: "70",
     name: "Chessy cripsy hot wigs",
     price: 200,
     category: "Cheeseloadedbox",
   },
   {
-    id: "71"
+    id: "71",
     name: "Mini cheese lass fries",
     price: 120,
     category: "Cheeseloadedbox",
@@ -456,18 +456,18 @@ export const MENU_ITEMS: MenuItem[] = [
 
 // Musttry
     {
-    id: "72"
+    id: "72",
     name: "Thread chicken*",
     price: 60,
     category: "Musttry",
   },{
-    id: "73"
+    id: "73",
     name: "Hot BBQ leg fry",
     price: 70,
     category: "Musttry",
   },
   {
-    id: "74"
+    id: "74",
     name: "Crispy chicken cheesy fries",
     price: 200,
     category: "Musttry",
