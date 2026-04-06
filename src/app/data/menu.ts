@@ -360,8 +360,8 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 130,
     category: "Momos",
   },
-  {
-    id: "57"
+   {
+    id: "57",
     name: "Chicken schezwan fry",
     price: 130,
     category: "Momos",
@@ -477,4 +477,3 @@ export const MENU_ITEMS: MenuItem[] = [
 export const CATEGORIES = Array.from(
   new Set(MENU_ITEMS.map((item) => item.category))
 ); 
-  
