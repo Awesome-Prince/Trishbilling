@@ -144,7 +144,7 @@ ${order.items.map((item) => `${item.name} x${item.quantity} - ₹${item.price * 
         <Card className="p-8">
           {/* Header */}
           <div className="text-center mb-8">
-            <h1 className="text-3xl font-bold mb-2">☕ Trish Billing</h1>
+            <h1 className="text-3xl font-bold mb-2"> Trish Billing</h1>
             <p className="text-muted-foreground">Order Details</p>
           </div>
 
@@ -206,7 +206,7 @@ ${order.items.map((item) => `${item.name} x${item.quantity} - ₹${item.price * 
           {/* Footer */}
           <div className="text-center text-sm text-muted-foreground">
             <p>Thank you for your order!</p>
-            <p className="mt-1">Please visit again ☕</p>
+            <p className="mt-1">Please visit again </p>
           </div>
         </Card>
       </div>

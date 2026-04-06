@@ -39,7 +39,7 @@ ${order.items.map((item) => `${item.name} x${item.quantity} - ₹${item.price * 
 💰 TOTAL: ₹${order.total}
 ━━━━━━━━━━━━━━━━━━
 
-Thank you for your order! ☕
+Thank you for your order! 
     `;
 
     if (navigator.share) {
@@ -112,7 +112,7 @@ Thank you for your order! ☕
         <Card className="p-8" ref={invoiceRef}>
           {/* Header */}
           <div className="text-center mb-8">
-            <h1 className="text-3xl font-bold mb-2">☕ Trish Billing</h1>
+            <h1 className="text-3xl font-bold mb-2"> Trish Billing</h1>
             <p className="text-muted-foreground">Tax Invoice</p>
           </div>
 
@@ -174,7 +174,7 @@ Thank you for your order! ☕
           {/* Footer */}
           <div className="text-center text-sm text-muted-foreground">
             <p>Thank you for your order!</p>
-            <p className="mt-1">Please visit again ☕</p>
+            <p className="mt-1">Please visit again </p>
           </div>
         </Card>
 

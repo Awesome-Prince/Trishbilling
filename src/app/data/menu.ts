@@ -5,7 +5,7 @@ import { MenuItem } from "../types";
 // Simply change the name, price, or add new items to the array
 
 export const MENU_ITEMS: MenuItem[] = [
-  // ☕ Hot Beverages
+  //  Hot Beverages
   {
     id: "1",
     name: "Espresso",
